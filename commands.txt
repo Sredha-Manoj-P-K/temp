@@ -3,3 +3,9 @@ git config --global user.name "Sredha Manoj P K"
 git config --global user.email "sredhamanoj635@gmail.com"
 
 git init- to initialize git
+
+git status-list all untracked files
+
+git add -A -adding all changes to staging area
+
+git commit-m "commit message"-adding staged files to local repository
