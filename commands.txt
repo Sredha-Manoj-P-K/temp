@@ -9,3 +9,7 @@ git status-list all untracked files
 git add -A -adding all changes to staging area
 
 git commit-m "commit message"-adding staged files to local repository
+
+git remote add origin https://github.com/Sredha-Manoj-P-K/gitbasiccmlbatch.git
+
+git remote -v
