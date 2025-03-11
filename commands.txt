@@ -1,3 +1,5 @@
 git config --global user.name "Sredha Manoj P K"
 
 git config --global user.email "sredhamanoj635@gmail.com"
+
+git init- to initialize git
