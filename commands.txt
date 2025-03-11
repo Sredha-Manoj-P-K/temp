@@ -14,4 +14,5 @@ git remote add origin https://github.com/Sredha-Manoj-P-K/gitbasiccmlbatch.git
 
 git remote -v
 
-git push
+git push origin master
+
